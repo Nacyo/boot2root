@@ -20,7 +20,7 @@ The methods you will use, more or less complex, will make you see different comp
 * In the case of using specific external software, you must prepare a specific environment (VM, docker, Vagrant).
 * The creation of script in order to save time is encouraged, but a detailed explanation can be requested in defense.
 * As part of your mandatory game, you must simply exploit the iso in two different ways.
-* ATTENTION: Everything that is present in this file must be able to be explained clearly without any hesitation. NO binary should be present in this folder.
+* Warning : Everything that is present in this file must be able to be explained clearly without any hesitation. NO binary should be present in this folder.
 
 
 ## Collaborators
