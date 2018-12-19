@@ -19,8 +19,8 @@ The methods you will use, more or less complex, will make you see different comp
 * If you need to use a specific file present on the ISO of the project, you must download it in defense. You must not under any circumstances put this one in your deposit.
 * In the case of using specific external software, you must prepare a specific environment (VM, docker, Vagrant).
 * The creation of script in order to save time is encouraged, but a detailed explanation can be requested in defense.
-* As part of your mandatory game, you must simply exploit the iso in two different ways.
-* Warning : Everything that is present in this file must be able to be explained clearly without any hesitation. NO binary should be present in this folder.
+* As part of your mandatory part, you must simply exploit the iso in two different ways.
+* Warning : Everything that is present in this your rendering folder must be explained clearly without any hesitation. NO binary should be present in this folder.
 
 
 ## Collaborators
